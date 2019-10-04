@@ -149,4 +149,7 @@ body {
 .blog-box {
     width: 90%;
 }
+.col-xs-6 {
+    width: 40%;
+    }
 }
